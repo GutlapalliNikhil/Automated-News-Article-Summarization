@@ -1,1 +1,1 @@
-# Automated-News-Article-Summarization
+# bigPatent-Dataset-Summarization
