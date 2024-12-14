@@ -31,8 +31,11 @@ git clone https://github.com/GutlapalliNikhil/BigPatent-Dataset-Summarization.gi
 cd BigPatent-Dataset-Summarization
 ```
 #### Install the required dependencies:
+
+Make sure you have installed GIT-LFS in your machine
+
 ```
-pip install -r requirements.txt
+git lfs install
 ```
 Ensure you have Python 3.8 or higher and a compatible GPU setup for training.
 
