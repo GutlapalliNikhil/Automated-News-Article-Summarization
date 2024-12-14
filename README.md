@@ -27,7 +27,7 @@ This repository contains code and resources for summarizing patent descriptions 
 
 #### Clone the repository:
 ```
-git clone https://github.com/your-username/BigPatent-Dataset-Summarization.git
+git clone https://github.com/GutlapalliNikhil/BigPatent-Dataset-Summarization.git
 cd BigPatent-Dataset-Summarization
 ```
 #### Install the required dependencies:
