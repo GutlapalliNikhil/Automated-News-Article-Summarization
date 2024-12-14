@@ -89,3 +89,24 @@ To calculate BLEU and ROUGE scores, use:
 ```
 python3 calculate_accuracy.py
 ```
+
+## Results
+
+#### Loss Values
+
+Hybrid Model Loss
+
+![image](https://github.com/user-attachments/assets/f2084407-695c-45eb-ba31-b576536436d1)
+
+BART Model Loss
+
+![image (1)](https://github.com/user-attachments/assets/af1a1177-5b3d-4fdd-8bae-4beb592d1de6)
+
+BERT Model Loss
+
+![image (2)](https://github.com/user-attachments/assets/25bd3361-007c-4cea-855c-e4c314dda4ca)
+
+
+### Accuracy Values
+
+![Screenshot 2024-12-13 194445](https://github.com/user-attachments/assets/31e54a50-5e01-4f22-8441-bcc0814cfb62)
